@@ -1,0 +1,13 @@
+{
+  "role": "Business Analyst",
+  "industry": "Financial Services",
+  "experience_years": 5,
+  "current_skills": {
+    "Quantitative Finance": "remember"
+  },
+  "learning_goals": [
+    "Understand financial markets deeply",
+    "Apply AI in finance"
+  ],
+  "time_available_minutes_per_week": 120
+}

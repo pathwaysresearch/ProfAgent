@@ -1,0 +1,63 @@
+# TACIT KNOWLEDGE IN ANDREW W. LO'S CONTENT SELECTION
+
+## CORE CONVICTIONS: The Evolutionary Finance Trinity
+
+Lo's content selection reveals three foundational beliefs that appear across his research trajectory, executive education, and public commentary:
+
+**1. Markets as Evolutionary Systems**
+The Adaptive Markets Hypothesis (AMH) isn't just a research paper for Lo—it's his organizing principle. From his 2004 foundational work (5000 citations) to its central placement in his executive education syllabus, AMH represents his core conviction that markets evolve like biological systems. This explains why he consistently returns to evolutionary metaphors and biological analogies in his teaching. The tacit knowledge: traditional finance models are static snapshots of dynamic systems.
+
+**2. Crisis as Revelation**
+His signature cases—LTCM Collapse and 2008 Financial Crisis—aren't chosen for their drama but for their diagnostic power. These aren't just "what went wrong" stories; they're laboratories for understanding how market evolution breaks down. The tacit selection logic: crises reveal the adaptive mechanisms (or their failures) that normal market conditions obscure.
+
+**3. Technology as Double-Edged Evolution**
+His recent pivot to "AI in Finance Risks" (2024 WSJ) and the inclusion of "AI in Risk Management" in his executive curriculum reveals a core conviction: technological evolution in finance follows the same adaptive principles as markets themselves. The tacit knowledge: AI isn't just a tool—it's an evolutionary force that can either enhance or disrupt market adaptation.
+
+## EMERGING PRIORITIES: The Infrastructure Bet
+
+**Financing Fusion Energy (2023)** represents a dramatic departure from traditional finance topics, yet it reveals Lo's emerging conviction about where quantitative finance must evolve. The tacit reasoning: the field must move beyond optimizing existing markets to financing civilizational-scale infrastructure. This isn't diversification—it's strategic positioning for where capital allocation decisions will matter most.
+
+His executive education focus on "AI in Risk Management" signals another emerging priority: preparing practitioners for markets where artificial intelligence isn't just analyzing risk but creating new categories of systemic risk.
+
+## DELIBERATE OMISSIONS: What Lo Doesn't Teach
+
+**Missing: Traditional Portfolio Theory**
+Despite being a quantitative finance expert, Lo's course notably omits Markowitz portfolio optimization, CAPM, or Black-Scholes derivatives pricing. The tacit knowledge: these models assume market efficiency, which contradicts his evolutionary worldview. Teaching them would undermine his core message about adaptive markets.
+
+**Missing: High-Frequency Trading**
+Given his MIT affiliation and quantitative expertise, the absence of HFT content is striking. The implicit reasoning: HFT represents market evolution without adaptation—speed without learning—which doesn't align with his biological metaphor for healthy markets.
+
+**Missing: Cryptocurrency/DeFi**
+No blockchain or cryptocurrency content appears despite their quantitative nature. The tacit selection logic: these represent speculative evolution rather than adaptive evolution—they change market structure without improving market function.
+
+## SIGNATURE EXAMPLES: The Pedagogy of Failure
+
+**LTCM as the Perfect Teaching Case**
+Lo returns to Long-Term Capital Management not because it's the biggest hedge fund failure, but because it perfectly illustrates his core thesis: brilliant quantitative models failed because they assumed static market conditions. LTCM had Nobel laureates but lacked evolutionary thinking. The tacit knowledge: mathematical sophistication without adaptive awareness is dangerous.
+
+**2008 Crisis as Systemic Evolution Failure**
+The 2008 Financial Crisis serves as his master class in how interconnected systems can evolve in ways that threaten their own survival. Unlike other educators who focus on regulatory failures or moral hazard, Lo uses 2008 to demonstrate how financial evolution can become maladaptive. The implicit selection logic: this crisis shows what happens when market evolution optimizes for short-term survival at the expense of long-term system stability.
+
+## CROSS-POLLINATION: The Biologist's Toolkit
+
+**Evolutionary Biology as Core Framework**
+Lo's most distinctive cross-pollination brings evolutionary biology directly into finance. This isn't metaphorical—he applies actual evolutionary concepts like adaptation, selection pressure, and environmental fitness to market behavior. The tacit knowledge: financial markets follow biological laws more closely than physical laws.
+
+**Behavioral Psychology Integration**
+His emphasis on "AI lacks judgment" (2024 WSJ) reveals his integration of cognitive psychology. The implicit reasoning: markets evolve through human decision-making, so understanding cognitive limitations is essential for understanding market evolution.
+
+**Systems Theory from Complex Sciences**
+His focus on systemic risk and interconnected failures draws from complexity science. The tacit selection logic: individual market participants may be rational, but system-level behavior emerges from their interactions in ways that can't be predicted from individual analysis alone.
+
+## THE META-PATTERN: Evolution as Pedagogy
+
+Lo's content selection reveals a deeper pedagogical philosophy: **teaching finance as an evolutionary science rather than a mathematical discipline**. Every topic, case, and reading is selected to reinforce this evolutionary framework:
+
+- **Historical cases** show how markets adapted (or failed to adapt)
+- **Current AI risks** demonstrate ongoing evolutionary pressures
+- **Future infrastructure needs** represent the next evolutionary challenge
+- **Interdisciplinary content** provides the biological and psychological tools needed to understand market evolution
+
+The tacit knowledge behind all his selections: students need to think like evolutionary biologists, not just quantitative analysts, to succeed in modern finance. This explains why he emphasizes judgment over calculation, adaptation over optimization, and system thinking over individual analysis.
+
+His content selection isn't just teaching finance—it's teaching a new way to think about how financial systems evolve, adapt, and sometimes fail to survive their own success.

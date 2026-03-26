@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": "vid_amh_001",
+    "title": "Adaptive Markets Lecture",
+    "content_type": "video",
+    "url": "https://youtube.com/example",
+    "professor_id": "andrew-lo-mit",
+    "skill": "Quantitative Finance",
+    "bloom_levels": ["understand", "analyze"],
+    "topics": ["Adaptive Markets"],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "summary": "Lecture on adaptive markets",
+    "tier": 1
+  },
+  {
+    "content_id": "paper_amh_001",
+    "title": "Adaptive Markets Hypothesis Paper",
+    "content_type": "article",
+    "url": "https://alo.mit.edu",
+    "professor_id": "andrew-lo-mit",
+    "skill": "Quantitative Finance",
+    "bloom_levels": ["analyze", "evaluate"],
+    "topics": ["Market Efficiency"],
+    "duration_minutes": 60,
+    "difficulty": "hard",
+    "summary": "Seminal AMH paper",
+    "tier": 1
+  },
+  {
+    "content_id": "case_ltc_001",
+    "title": "LTCM Collapse Case Study",
+    "content_type": "case_study",
+    "url": "",
+    "professor_id": "andrew-lo-mit",
+    "skill": "Quantitative Finance",
+    "bloom_levels": ["apply", "analyze"],
+    "topics": ["Systemic Risk"],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "summary": "Failure of LTCM hedge fund",
+    "tier": 1
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "professor_id": "",
+  "full_name": "",
+  "primary_affiliation": "",
+  "secondary_affiliations": [],
+  "title_role": "",
+  "mapped_skills": [],
+  "primary_skill": "",
+  "expertise_domains": [],
+  "papers": [
+    {
+      "title": "",
+      "year": 0,
+      "abstract": "",
+      "citations": 0,
+      "journal_or_venue": "",
+      "coauthors": [],
+      "url": "",
+      "key_concepts": []
+    }
+  ],
+  "h_index": 0,
+  "total_citations": 0,
+  "research_themes": [],
+  "research_evolution": "",
+  "courses": [
+    {
+      "title": "",
+      "institution": "",
+      "level": "",
+      "syllabus_topics": [],
+      "reading_list": [],
+      "case_studies": [],
+      "learning_objectives": [],
+      "year": 0,
+      "url": ""
+    }
+  ],
+  "teaching_philosophy": "",
+  "preferred_pedagogy": [],
+  "signature_cases": [],
+  "videos": [
+    {
+      "title": "",
+      "platform": "",
+      "url": "",
+      "duration_minutes": 0,
+      "transcript_excerpt": "",
+      "key_topics": [],
+      "year": 0,
+      "context": ""
+    }
+  ],
+  "explanation_style": "",
+  "recurring_analogies": [],
+  "publications": [
+    {
+      "title": "",
+      "outlet": "",
+      "url": "",
+      "year": 0,
+      "summary": "",
+      "key_arguments": [],
+      "publication_type": ""
+    }
+  ],
+  "books": [
+    {
+      "title": "",
+      "year": 0,
+      "publisher": "",
+      "summary": "",
+      "key_themes": [],
+      "table_of_contents": []
+    }
+  ],
+  "profile_completeness": 0.0,
+  "last_scraped": "",
+  "scrape_sources": [],
+  "notes": ""
+}

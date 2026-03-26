@@ -1,0 +1,173 @@
+{
+  "_README": "UPDATED: This shows the enriched case study data model that captures HBS Publishing metadata. Compare with the original case_studies array which was just titles. This version adds abstracts, keyword taxonomies, teaching subjects, and the professor's intended learning focus per case.",
+
+  "case_studies_enriched": [
+    {
+      "case_id": "525-052",
+      "title": "Adobe: GenAI Opportunity or Threat?",
+      "authors": ["Sunil Gupta", "Rajiv Lal", "Allison Ciechanover"],
+      "year": 2025,
+      "revision": "November 2025",
+      
+      "abstract": "In December 2022, Adobe CEO Shantanu Narayen faced a pivotal strategic decision due to the rapid rise of generative AI image models from OpenAI, Midjourney, and StabilityAI. Adobe, a leader in digital media and marketing software with a 40-year legacy of innovation.",
+      "_source": "Directly from HBS publications page — the abstract is displayed when you click 'View Details'",
+      
+      "hbs_keywords": [
+        "Customer Relationship Management",
+        "Ethics",
+        "AI and Machine Learning",
+        "Trust",
+        "Business Strategy",
+        "Technology Industry"
+      ],
+      "_source_keywords": "From the Keywords field on the HBS publications page. These are HBS's own controlled taxonomy — incredibly valuable because they reveal what TEACHING SUBJECTS the professor maps this case to.",
+      
+      "industry": "Technology Industry",
+      "geography": "San Jose",
+      
+      "teaching_purpose": "How incumbents respond to AI disruption; tension between cannibalizing existing products vs. embracing new technology",
+      "_note": "The teaching_purpose is your inference from the abstract + keywords. This is what the three-pass externalization will extract more rigorously.",
+      
+      "bloom_levels_served": ["analyze", "evaluate"],
+      "_note_bloom": "A case about a CEO facing a strategic decision inherently serves Analyze (break down the situation) and Evaluate (recommend a course of action)."
+    },
+    
+    {
+      "case_id": "524-072",
+      "title": "Unleashing Human Magic at Best Buy",
+      "authors": ["Leonard A. Schlesinger", "Sunil Gupta", "Amram Migdal"],
+      "year": 2024,
+      "revision": "July 2024",
+      
+      "abstract": "Best Buy's transformation under CEO Hubert Joly, focusing on organizational culture, employee engagement, and leadership during digital transformation.",
+      
+      "hbs_keywords": [
+        "Change Management",
+        "Transformation",
+        "Communication Strategy",
+        "Customer Focus and Relationships",
+        "Digital Transformation",
+        "Digital Strategy",
+        "Leadership Development",
+        "Leadership Style",
+        "Leading Change",
+        "Organizational Change and Adaptation",
+        "Organizational Culture",
+        "Business Strategy",
+        "Retail Industry"
+      ],
+      
+      "industry": "Retail Industry",
+      "geography": "Minneapolis, Minnesota, United States",
+      
+      "teaching_purpose": "The human/cultural side of digital transformation; how leadership and purpose drive successful change",
+      "bloom_levels_served": ["analyze", "evaluate"]
+    },
+    
+    {
+      "case_id": "525-024",
+      "title": "Navigating Digital Transformation at Carrefour",
+      "authors": ["Sunil Gupta", "Emilie Billaud"],
+      "year": 2024,
+      
+      "abstract": "In 2023, Elodie Perthuisot, Carrefour's Executive Director for e-commerce and digital transformation, met with CEO Alexandre Bompard to discuss strategies for the company's digital initiatives. Carrefour, a global retail giant with over 14,300 stores across 40 countries.",
+      
+      "hbs_keywords": [
+        "Change Management",
+        "Talent and Talent Management",
+        "Decisions",
+        "Digital Strategy",
+        "Technology Adoption",
+        "Leading Change",
+        "Resource Allocation",
+        "Digital Marketing",
+        "E-commerce",
+        "Operations",
+        "Logistics",
+        "Organizational Culture",
+        "Strategic Planning",
+        "Competitive Advantage",
+        "Digital Transformation",
+        "Retail Industry"
+      ],
+      
+      "industry": "Retail Industry; Food and Beverage Industry",
+      "geography": "Europe",
+      
+      "teaching_purpose": "European retail digital transformation; balancing physical and digital presence; resource allocation decisions",
+      "bloom_levels_served": ["apply", "analyze"]
+    },
+    
+    {
+      "case_id": "524-020",
+      "title": "Reimagining Hindustan Unilever (A)",
+      "authors": ["Sunil Gupta", "Rachna Tahilyani"],
+      "year": 2023,
+      
+      "abstract": "In the fall of 2019, the CEO and MD of Hindustan Unilever (HUL), India's largest fast-moving consumer goods (FMCG) firm, is wondering what to do about their experiments to digitize distribution. Despite three years of intense efforts, their apps to empower retailers had met with limited success.",
+      
+      "hbs_keywords": [
+        "Experimentation",
+        "Digital Transformation",
+        "Digital Strategy",
+        "Leading Change",
+        "Distribution",
+        "Decisions",
+        "Organizational Change and Adaptation",
+        "Consumer Behavior",
+        "E-commerce",
+        "Competition",
+        "Performance",
+        "Business Strategy",
+        "Marketing",
+        "Transformation"
+      ],
+      
+      "industry": "Consumer Products Industry",
+      "geography": "Asia; India",
+      
+      "teaching_purpose": "Digital transformation in emerging markets; when digital experiments fail; the challenge of digitizing traditional distribution",
+      "bloom_levels_served": ["analyze", "evaluate"]
+    },
+    
+    {
+      "case_id": "526-018",
+      "title": "Google vs ChatGPT: From Search to Conversation",
+      "authors": ["Sunil Gupta"],
+      "year": 2025,
+      "revision": "January 2026",
+      
+      "abstract": "Google faces competitive threat from ChatGPT and conversational AI, challenging its core search business model.",
+      
+      "hbs_keywords": [],
+      "_note": "Newest case — keywords may not be fully tagged yet on HBS site",
+      
+      "industry": "Technology Industry",
+      "geography": "United States",
+      
+      "teaching_purpose": "Platform disruption by AI; how dominant platforms face existential competitive threats",
+      "bloom_levels_served": ["analyze", "evaluate"]
+    }
+  ],
+
+  "_WHAT_THIS_ADDS_TO_THE_PIPELINE": {
+    "for_tacit_knowledge_extraction": "The keyword taxonomies reveal which CONCEPTS the professor connects to each real-world situation. When Pass 1 sees that the Best Buy case is tagged with both 'Organizational Culture' AND 'Digital Transformation', it can infer that Gupta considers culture inseparable from DT strategy — a tacit belief that wouldn't be visible from the case title alone.",
+    
+    "for_content_selection": "The abstracts provide the decision context. The professor agent can now match cases to learner industries more precisely — a financial services learner gets Adobe/Goldman Sachs cases, a retail learner gets Best Buy/Carrefour, an emerging markets learner gets Hindustan Unilever.",
+    
+    "for_bloom_leveling": "Case abstracts that describe a 'pivotal strategic decision' or 'wondering what to do' naturally serve Analyze and Evaluate levels. The agent can now auto-tag Bloom levels per case based on the decision structure described in the abstract.",
+    
+    "for_content_database_tier_2": "Each case becomes a Tier 2 content item with rich metadata — tagged by skill, Bloom level, industry, geography, and teaching purpose. The content database goes from flat titles to a searchable, filterable catalog."
+  },
+
+  "_HOW_TO_COLLECT_THIS_DATA": {
+    "step_1": "Go to https://www.hbs.edu/faculty/research/publications/Pages/default.aspx?faculty=sgupta",
+    "step_2": "For each case study, click 'View Details' to see the abstract and keywords",
+    "step_3": "Copy the abstract (first 2-3 sentences), the Keywords field, and the industry/geography tags",
+    "step_4": "Optionally check https://www.thecasecentre.org/ for the same case — it often has additional teaching notes and subject tags",
+    "time_estimate": "About 3-5 minutes per case. For 10 cases = 30-50 minutes. Worth the investment.",
+    "automation_note": "This is highly automatable — the HBS publications page has consistent HTML structure. A BeautifulSoup scraper can extract all cases + metadata in seconds. Prioritize automating THIS source first."
+  },
+
+  "_UPDATED_SCRAPER_ADDITION": "Add a new HBSPublishingScraper class to professor_scraper.py that targets the faculty publications page and extracts: case_id, title, authors, year, abstract, keywords, industry, geography. This becomes the highest-value automated scraper because the data is structured, public, and directly reveals pedagogical intent."
+}

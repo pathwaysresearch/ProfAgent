@@ -1,0 +1,119 @@
+{
+  "professor_id": "andrew-lo-mit",
+  "full_name": "Andrew W. Lo",
+  "primary_affiliation": "MIT Sloan School of Management",
+  "secondary_affiliations": [
+    "MIT CSAIL",
+    "Operations Research Center",
+    "Institute for Data, Systems, and Society"
+  ],
+  "title_role": "Professor of Finance; Director, Laboratory for Financial Engineering",
+  "mapped_skills": [
+    "Quantitative Finance",
+    "Systemic Risk",
+    "Machine Learning in Finance"
+  ],
+  "primary_skill": "Quantitative Finance",
+  "expertise_domains": [
+    "Financial Economics",
+    "AI in Finance",
+    "Systemic Risk"
+  ],
+  "papers": [
+    {
+      "title": "The Adaptive Markets Hypothesis",
+      "year": 2004,
+      "abstract": "Markets evolve through adaptation and competition rather than remaining perfectly efficient.",
+      "citations": 5000,
+      "journal_or_venue": "Journal of Portfolio Management",
+      "coauthors": [],
+      "url": "https://alo.mit.edu",
+      "key_concepts": ["Adaptive Markets", "Market Efficiency"]
+    },
+    {
+      "title": "Financing Fusion Energy",
+      "year": 2023,
+      "abstract": "Financial models for funding deep-tech innovations like fusion energy.",
+      "citations": 50,
+      "journal_or_venue": "MIT",
+      "coauthors": ["Dennis Whyte"],
+      "url": "https://alo.mit.edu",
+      "key_concepts": ["Deep Tech", "Energy Finance"]
+    }
+  ],
+  "h_index": 120,
+  "total_citations": 25000,
+  "research_themes": [
+    "Adaptive Markets",
+    "Systemic Risk",
+    "AI in Finance"
+  ],
+  "research_evolution": "From efficient markets to adaptive, evolutionary finance and AI-driven systems.",
+  "courses": [
+    {
+      "title": "AI in Financial Services",
+      "institution": "MIT Sloan",
+      "level": "executive_ed",
+      "syllabus_topics": [
+        "Market Efficiency",
+        "Adaptive Markets",
+        "AI in Risk Management"
+      ],
+      "reading_list": [
+        "Adaptive Markets (Book)"
+      ],
+      "case_studies": [
+        "LTCM Collapse",
+        "2008 Financial Crisis"
+      ],
+      "learning_objectives": [
+        "Understand adaptive markets",
+        "Apply AI to finance"
+      ],
+      "year": 2025,
+      "url": "https://mitsloan.mit.edu"
+    }
+  ],
+  "teaching_philosophy": "Interdisciplinary and data-driven learning.",
+  "preferred_pedagogy": ["case-based", "quantitative"],
+  "signature_cases": ["LTCM", "2008 Crisis"],
+  "videos": [
+    {
+      "title": "Adaptive Markets Lecture",
+      "platform": "youtube",
+      "url": "https://youtube.com/example",
+      "duration_minutes": 45,
+      "transcript_excerpt": "Markets behave like ecosystems...",
+      "key_topics": ["Adaptive Markets"],
+      "year": 2023,
+      "context": "lecture"
+    }
+  ],
+  "explanation_style": "Analytical with real-world examples",
+  "recurring_analogies": ["markets as ecosystems"],
+  "publications": [
+    {
+      "title": "AI in Finance Risks",
+      "outlet": "WSJ",
+      "url": "https://wsj.com",
+      "year": 2024,
+      "summary": "AI lacks judgment in finance.",
+      "key_arguments": ["AI risk"],
+      "publication_type": "article"
+    }
+  ],
+  "books": [
+    {
+      "title": "Adaptive Markets",
+      "year": 2017,
+      "publisher": "Princeton",
+      "summary": "Markets evolve like biological systems.",
+      "key_themes": ["evolutionary finance"],
+      "table_of_contents": ["EMH", "AMH"]
+    }
+  ],
+  "profile_completeness": 0.9,
+  "last_scraped": "2026-03-24T00:00:00",
+  "scrape_sources": ["MIT", "Google Scholar"],
+  "notes": "Example profile"
+}

@@ -1,0 +1,127 @@
+# Deepa Mani
+
+**Contact:** deepa_mani@isb.edu
+**Profile:** [Biography](https://www.isb.edu/faculty-and-research/faculty-directory/deepa-mani)
+
+Professor Deepa Mani is Professor of Information Systems and the Deputy Dean of Academic Programmes & Digital Learning at the Indian School of Business. Deepa’s research interests are at the intersection of technology, organisation, and society. She has demonstrated significant thought leadership on the business and policy implications of technological innovations and investments. Her research articles have been published in leading academic journals and extensively featured in refereed conference proceedings, edited book chapters, and popular media outlets. Deepa serves as a Senior Editor at Information Systems Research. Deepa’s research has also had widespread impact on business practice and policy. In recognition of her impact, she was awarded the prestigious INFORMS Information Systems Society (ISS) Practical Impacts Award in 2022.
+
+Deepa has been appointed to serve on several expert committees of the Central and State governments to provide guidance on policies for the digital economy, digital interventions in key sectors, and catalyse grassroot impacts using technology. She also extensively coaches organizations, keynotes corporate leadership events, and conducts executive education in the areas of digital business models, digital transformation and technology product management.
+
+## Education
+*   **PhD in Information Systems**, University of Texas, 2008
+*   **Masters in Information Systems Management**, Carnegie Mellon University, 2003
+*   **BA in (Honors) Mathematics**, St. Stephen's College, Delhi University, 1995
+
+## Academic Positions
+*   **2024 - Present:** Deputy Dean of Academic Programs and Digital Learning, Indian School of Business
+*   **2020 - Present:** Chair, Junior Faculty Consortium International Conference on Information Systems
+*   **2020 - Present:** Professor, Indian School of Business
+*   **2018 - Present:** Faculty Mentor, Doctoral Consortium, International Conference on Information Systems
+*   **2021 - 2024:** Deputy Dean - Executive Education and Digital Learning, Indian School of Business
+*   **2013 - 2021:** Executive Director of SRITNE, Indian School of Business
+*   **2020 - 2021:** Area Leader of Information Systems, Indian School of Business
+*   **2016 - 2020:** Associate Professor, Indian School of Business
+*   **2012 - 2019:** Research Fellow, Indian School of Business
+*   **2008 - 2016:** Assistant Professor, Indian School of Business
+
+## Professional Positions
+*   **2020 - Present:** Member, Telangana Digital Education Committee
+*   **2019 - Present:** Advisor, Michael and Susan Dell Foundation
+*   **2019 - Present:** Consultant, World Bank
+*   **2020 - 2021:** Independent Director, cKers Finance
+*   **2018 - 2019:** Member, Confederation of Indian Industry, Telangana Digital Transformation Panel
+*   **2017 - 2018:** Member, Smart City Advisory Council and Innovation Policy Committee, Government of Telangana
+*   **2002 - 2003:** Founder and Director, Human Array, LLC, Pittsburgh
+*   **2000 - 2001:** Technology Consultant, Mount Sinai Medical Center & JP Morgan Chase
+*   1**997 - 1998:** Management Services Analyst, Housing Development Finance Corporation Ltd., India
+
+## Selected Publications
+
+### Published Papers
+*   [Karanam, Aditya., Mani, Deepa., Saha, Rajib. (2024) "Technological Relatedness to the ICT Industry and Its Impact on Innovation Performance and Competitive Intensity", Information Systems Research](https://www.isb.edu/faculty-and-research/research-directory/technological-relatedness-to-the-ict-industry-and-its-impact-on-innovation-performance-and-competitive-intensity/)
+*   [Agarwal, Saharsh., Mani, Deepa., Telang, Rahul. (2023) "The Impact of Ride-hailing Services on Congestion: Evidence from Indian Cities", Manufacturing & Service Operations Management, 25 (3), 862–883](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-ride-hailing-services-on-congestion-evidence-from-indian-cities/)
+*   [Lu, Yingda., Susarla, Anjana., Ravindran, Kiron., Mani, Deepa. (2023) "Machine learning approaches to understand IT outsourcing portfolios", Electronic Commerce Research](https://www.isb.edu/faculty-and-research/research-directory/machine-learning-approaches-to-understand-it-outsourcing-portfolios/)
+*   [Mani, Deepa., Nandkumar, Anand., nandkumar, A., Kale, P. (2020) "How Firms Build Isolating Mechanisms for Knowledge: A Study in Offshore Research and Development Captives", Strategy Science, 5 (2), 98-116](https://www.isb.edu/faculty-and-research/research-directory/how-firms-build-isolating-mechanisms-for-knowledge-a-study-in-offshore-research-and-development-captives/)
+*   [Mani, Deepa., Joshi, Satish., Krishnan, Ranjani. (2020) "Pricing your outsourcing contract in uncertainty", Strategic Finance (101(11), pp.21-22)](https://www.isb.edu/faculty-and-research/research-directory/pricing-your-outsourcing-contract-in-uncertainty/)
+*   [Mani, Deepa., Krishnan, Ranjani. (2018) "Uncertainty and Compensation Design in Strategic Inter-Firm Contracts", Contemporary Accounting Research, 37 (1), 542–574](https://www.isb.edu/faculty-and-research/research-directory/uncertainty-and-compensation-design-in-strategic-inter-firm-contracts/)
+*   [Mani, Deepa. (2018) "Impact Assessment of Common Service Centers in India", prepared for Ministry of IT](https://www.isb.edu/faculty-and-research/research-directory/impact-assessment-of-common-service-centers-in-india/)
+*   [Bharadwaj, Anandhi., Mani, Deepa., Nandkumar, Anand. (2018) "When Companies Want to Innovate, But Investors Won’t Let Them", Harvard Business Review](https://www.isb.edu/faculty-and-research/research-directory/when-companies-want-to-innovate-but-investors-won-t-let-them/)
+*   [Langer, Nishtha., Mani, Deepa. (2018) "Impact of Formal Controls on Client Satisfaction and Profitability in Strategic Outsourcing Contracts", Journal of Management Information Systems, 35 (4), 998-1030](https://www.isb.edu/faculty-and-research/research-directory/impact-of-formal-controls-on-client-satisfaction-and-profitability-in-strategic-outsourcing-contracts/)
+*   [Kotlarsky, J., Oshri, I., Dibbern, J., Mani, Deepa. (2018) "IS Sourcing", MIS Quarterly Research Curations](https://www.isb.edu/faculty-and-research/research-directory/is-sourcing/)
+*   [Mani, Deepa., Barua, Anitesh. (2018) "Reexamining the Market Value of Information Technology Events", Information Systems Research, 29 (1), 225 - 240](https://www.isb.edu/faculty-and-research/research-directory/reexamining-the-market-value-of-information-technology-events/)
+*   [Mani, Deepa. (2017) "Framework paper on shared mobility", prepared for NITI Aayog](https://www.isb.edu/faculty-and-research/research-directory/framework-paper-on-shared-mobility/)
+*   [Mani, Deepa., K, Aditya., Saha, Rajib. (2017) "The Digital Transformation of R&D", ISB insight](https://www.isb.edu/faculty-and-research/research-directory/the-digital-transformation-of-rd/)
+*   [Mani, Deepa., Nandkumar, Anand., Sharma, Vasundhara. (2017) "Clusterpreneurship: Do Entrepreneurs Create and Sustain Clusters?", ISB insight](https://www.isb.edu/faculty-and-research/research-directory/clusterpreneurship-do-entrepreneurs-create-and-sustain-clusters/)
+*   [Bhargava. H., Evans D. S., Mani, Deepa. (2016) "The Move to Smart Mobile Platforms: Implications for Antitrust Analysis of Online Markets in Developed and Developing Countries", UC Davis Business Law Journal](https://www.isb.edu/faculty-and-research/research-directory/the-move-to-smart-mobile-platforms-implications-for-antitrust-analysis-of-online-markets-in-developed-and-developing-countries/)
+*   [Yahav., Inbal., Galit Shmueli., Mani, Deepa. (2016) "Tree-Based Approach for Addressing Self-Selection in Impact Studies: Applications to eGov and Outsourcing", MIS Quarterly, 40 (4), 819-848](https://www.isb.edu/faculty-and-research/research-directory/tree-based-approach-for-addressing-self-selection-in-impact-studies-applications-to-egov-and-outsourcing/)
+*   [Mani, Deepa., Anand, Mridula., Nandkumar, Anand. (2016) "Technological Innovation in India: Negotiating the Patent Ecosystem", ISB insight](https://www.isb.edu/faculty-and-research/research-directory/technological-innovation-in-india-negotiating-the-patent-ecosystem/)
+*   [Mani, Deepa., Nandkumar, Anand. (2016) "THE DIFFERENTIAL IMPACTS OF MARKETS FOR TECHNOLOGY ON THE VALUE OF TECHNOLOGICAL RESOURCES: AN APPLICATION OF GROUP-BASED TRAJECTORY MODELS", Strategic Management Journal, 37 (1), 192-205](https://www.isb.edu/faculty-and-research/research-directory/the-differential-impacts-of-markets-for-technology-on-the-value-of-technological-resources-an-application-of-group-based-trajectory-models/)
+*   [Kiron Ravindran., Anjana Susarla., Mani, Deepa., Vijay Gurbaxani. (2015) "Social Capital and Contract Duration in Buyer-Supplier Networks for Information Technology Outsourcing", Information Systems Research, 26 (2), 379-397](https://www.isb.edu/faculty-and-research/research-directory/social-capital-and-contract-duration-in-buyer-supplier-networks-for-information-technology-outsourcing/)
+*   [Mani, Deepa., Barua, Anitesh. (2015) "The Impact of Firm Learning on Value Creation in Strategic Outsourcing Relationships", Journal of Management Information Systems, 32 (1), 9-38](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-firm-learning-on-value-creation-in-strategic-outsourcing-relationships/)
+*   [Mani, Deepa., Banerjee, S. (2015) "Smart City Maturity Model", ISB insight](https://www.isb.edu/faculty-and-research/research-directory/smart-city-maturity-model/)
+*   [Mani, Deepa., Barua, Anitesh. (2014) "Augmenting Conflict Resolution with Informational Response: A Holistic View of Governance Choice in Business Process Outsourcing", Journal of Management Information Systems, 31 (3), 72-105](https://www.isb.edu/faculty-and-research/research-directory/augmenting-conflict-resolution-with-informational-response-a-holistic-view-of-governance-choice-in-business-process-outsourcing/)
+*   [Mani, Deepa. (2014) "A Capability Maturity Index For Global In-House Centres (GICs) In India", ISB insight](https://www.isb.edu/faculty-and-research/research-directory/a-capability-maturity-index-for-global-in-house-centres-gics-in-india/)
+*   [Mani, Deepa., Srikanth, Kannan., Bharadwaj, Anandhi. (2014) "Efficacy of R&D Work in Offshore Captive Centers: An Empirical Study of Task Characteristics, Coordination Mechanisms, and Performance", Information Systems Research, 25 (4), 846-864](https://www.isb.edu/faculty-and-research/research-directory/efficacy-of-rd-work-in-offshore-captive-centers-an-empirical-study-of-task-characteristics-coordination-mechanisms-and-performance/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2013) "Outsourcing Contracts and Equity Prices", Information Systems Research, 24 (4), 1028 – 1049](https://www.isb.edu/faculty-and-research/research-directory/outsourcing-contracts-and-equity-prices/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2012) "An Empirical Analysis of the Contractual and Information Structures of Business Process Outsourcing Relationships", Information Systems Research, 23 (3), 618-634](https://www.isb.edu/faculty-and-research/research-directory/an-empirical-analysis-of-the-contractual-and-information-structures-of-business-process-outsourcing-relationships/)
+*   [Bapna, Ravi., Barua, Anitesh., Mani, Deepa., Mehra, Amit. (2010) "Research Commentary: Cooperation, Coordination, and Governance in Multisourcing: An Agenda for Analytical and Empirical Research", Information Systems Research, 21 (4), 785-795](https://www.isb.edu/faculty-and-research/research-directory/research-commentary-cooperation-coordination-and-governance-in-multisourcing-an-agenda-for-analytical-and-empirical-research/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2010) "An Empirical Analysis of the Impact of Information Capabilities Design on Business Process Outsourcing Performance", Management Information Systems Quarterly, 34 (1), 39-62](https://www.isb.edu/faculty-and-research/research-directory/an-empirical-analysis-of-the-impact-of-information-capabilities-design-on-business-process-outsourcing-performance/)
+*   [Mani, Deepa. (2006) "Successful Business Process Outsourcing", MIT Sloan Management Review, 47 (2), 5-6](https://www.isb.edu/faculty-and-research/research-directory/successful-business-process-outsourcing/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2006) "Successfully Governing Business Process Outsourcing Relationships", MIS Quarterly Executive, 5 (1), 15-29](https://www.isb.edu/faculty-and-research/research-directory/successfully-governing-business-process-outsourcing-relationships/)
+
+### Books & Monographs
+*   [Mani, Deepa., Langer, Nishtha., Srikanth, Kannan. (2014) "Client Satisfaction versus Profitability: An Empirical Analysis of the Impact of Formal Controls in Strategic Outsourcing Contracts", Information Systems Outsourcing](https://www.isb.edu/faculty-and-research/research-directory/client-satisfaction-versus-profitability-an-empirical-analysis-of-the-impact-of-formal-controls-in-strategic-outsourcing-contracts/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2010) "“Does Strategic Outsourcing Create Financial Value?” In: Michael Pinedo (ed.) Operational control in asset management: Processes and Costs", SimCorp Strategy Lab (First Edition 2010), 190-209](https://www.isb.edu/faculty-and-research/research-directory/does-strategic-outsourcing-create-financial-value-in-michael-pinedo-ed-operational-control-in-asset-management-processes-and-costs/)
+
+### Conference Proceedings
+*   [Mani, Deepa. (2019) "The Impact of Ride-hailing Services on Congestion: Evidence from Indian Cities", Twelfth Annual Federal Trade Commission Microeconomics Conference](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-ride-hailing-services-on-congestion-evidence-from-indian-cities-1/)
+*   [Mani, Deepa. (2019) "The Impact of Ride-hailing Services on Congestion: Evidence from Indian Cities", Advances with Field Experiments, University of Chicago](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-ride-hailing-services-on-congestion-evidence-from-indian-cities-2/)
+*   [Mani, Deepa. (2019) "The Impact of Ride-hailing Services on Congestion: Evidence from Indian Cities", American Meetings of the Regional Science Association](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-ride-hailing-services-on-congestion-evidence-from-indian-cities-3/)
+*   [Nandkumar, Anand., Mani, Deepa., Bharadwaj, Anandhi. (2018) "Market Returns to Digital Innovations: A Group Based Trajectory Approach", Academy of Management, 2018 (1)](https://www.isb.edu/faculty-and-research/research-directory/market-returns-to-digital-innovations-a-group-based-trajectory-approach/)
+*   [Mani, Deepa., Ram Janakiraman., Shantanu Dutta. (2015) "Are All Customers Equal? Evidence from the Market Value of Multinational B2B Contracts", Marketing Strategy Meets Wall Street Conference](https://www.isb.edu/faculty-and-research/research-directory/are-all-customers-equal-evidence-from-the-market-value-of-multinational-b2b-contracts/)
+*   [Mani, Deepa., Susarla, Anjana., Krishnan, Ranjani. (2015) "Achieving Success and Innovation in Global Sourcing: Perspectives and Practices", Proceedings of the 9th Global Sourcing Workshop](https://www.isb.edu/faculty-and-research/research-directory/achieving-success-and-innovation-in-global-sourcing-perpectives-and-practices/)
+*   [Mani, Deepa., Nandkumar, Anand., Srikanth, Kannan., Kale, Prashant. (2015) "The Role of Organizational Mechanisms in Preventing Leakage of Unpatented Knowledge", Academy of Management Proceedings, 2015 (1)](https://www.isb.edu/faculty-and-research/research-directory/the-role-of-organizational-mechanisms-in-preventing-leakage-of-unpatented-knowledge/)
+*   [Langer, Nishtha., Mani, Deepa., Srikanth, Kannan. (2013) "Do Formal Controls Affect Client Satisfaction? An empirical Analysis of Strategic Outsourcing Contracts", Proceedings of the Thirty Fourth International Conference on Information Systems](https://www.isb.edu/faculty-and-research/research-directory/do-formal-controls-affect-client-satisfaction-an-empirical-analysis-of-strategic-outsourcing-contracts/)
+*   [Mani, Deepa., Shmueli, Galit. "A Tree-Based Approach for addressing self-selection in impact studies with big data", Statistical Challenges in Electronic Commerce, 40 (4), 819-848](https://www.isb.edu/faculty-and-research/research-directory/a-tree-based-approach-for-addressing-self-selection-in-impact-studies-with-big-data/)
+*   [Mani, Deepa. (2013) "Greenfield Investments Versus Acquisitions: Capital Market Drivers of R&D Organization in Technology-Intensive Industries", 35th DRUID Celebration Conference](https://www.isb.edu/faculty-and-research/research-directory/greenfield-investments-versus-acquisitions-capital-market-drivers-of-rd-organization-in-technology-intensive-industries/)
+*   [Mani, Deepa., Nandkumar, Anand. "Use of Group-Based Trajectory Models to Assess the Impact of Heterogeneously Distributed Firm Capabilities:The Case of Innovation", Statistical Challenges in Electronic Commerce, 39](https://www.isb.edu/faculty-and-research/research-directory/use-of-group-based-trajectory-models-to-assess-the-impact-of-heterogeneously-distributed-firm-capabilitiesthe-case-of-innovation/)
+*   [Barua, Anitesh., Mani, Deepa. (2012) "Market Myopia and Firm-Specific Risk: Reexamining the Financial Value of Information Technology (IT) Decisions", Proceedings of the 16th Pacific Asia Conference on Information systems 2012, 4](https://www.isb.edu/faculty-and-research/research-directory/market-myopia-and-firm-specific-risk-reexamining-the-financial-value-of-information-technology-it-decisions/)
+*   [Mani, Deepa., Rajamani, Nithya., Mehta, Sameep., Chebiyyam, Murthy. (2010) "Quality, Satisfaction and Value In Outsourcing: Role of Relationship Dynamics and Proactive Management", 30th International Conference of Information Systems](https://www.isb.edu/faculty-and-research/research-directory/quality-satisfaction-and-value-in-outsourcing-role-of-relationship-dynamics-and-proactive-management/)
+*   [Mani, Deepa., Aron, R., Clemons, Eric., Jayanty, Siddarth., Liu, Ying., Pathak, Praveen. (2010) "Determinants of Output Quality and Satisfaction in Offshore Outsourcing Relationships", SMS Conference](https://www.isb.edu/faculty-and-research/research-directory/determinants-of-output-quality-and-satisfaction-in-offshore-outsourcing-relationships/)
+*   [Mani, Deepa., Barua, Anitesh. (2009) "The Impact of Firm Learning on Financial Value in Strategic Outsourcing Relationships", 29th International Conference of Information Systems](https://www.isb.edu/faculty-and-research/research-directory/the-impact-of-firm-learning-on-financial-value-in-strategic-outsourcing-relationships/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2009) "Creating or Destroying Long-Term Firm Value Through IT and Business Process Outsourcing?", ISES Inaugural Global Conference on Service Excellence, Singapore Management University](https://www.isb.edu/faculty-and-research/research-directory/creating-or-destroying-long-term-firm-value-through-it-and-business-process-outsourcing/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2008) "An Empirical Assessment of the Long-Term Market Value of Information Technology and Business Process Outsourcing", International Congress on Pervasive Computing and Management](https://www.isb.edu/faculty-and-research/research-directory/an-empirical-assessment-of-the-long-term-market-value-of-information-technology-and-business-process-outsourcing/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2007) "An Empirical Analysis of the Determinants of Governance Choice in Business Process Outsourcing Relationships", 27th International Conference of Information Systems](https://www.isb.edu/faculty-and-research/research-directory/an-empirical-analysis-of-the-determinants-of-governance-choice-in-business-process-outsourcing-relationships/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2007) "A Model of Contingent Governance Choice and Performance in Business Process Outsourcing: The Effects of Relational and Process Uncertainty", International DSI Conference and APDSI Conference](https://www.isb.edu/faculty-and-research/research-directory/a-model-of-contingent-governance-choice-and-performance-in-business-process-outsourcing-the-effects-of-relational-and-process-uncertainty/)
+*   [Mani, Deepa., Barua, Anitesh., Whinston, Andrew. (2005) "Of Governance and the BPO Paradox: The Impact of Information Capabilities on Service Satisfaction", 25th International Conference of Information Systems, 109-122](https://www.isb.edu/faculty-and-research/research-directory/of-governance-and-the-bpo-paradox-the-impact-of-information-capabilities-on-service-satisfaction/)
+
+## Cases and Simulations
+*   [Mani, Deepa. (2013) "IT-Led Transformation at Reliance Energy - Case Study"](https://www.isb.edu/faculty-and-research/research-directory/it-led-transformation-at-reliance-energy-case-study/)
+*   [Mani, Deepa. (2012) "Sony Music India -Case Study", Harvard Business Publishing’s ISB Case Collection](https://www.isb.edu/faculty-and-research/research-directory/sony-music-india-case-study/)
+*   [Mani, Deepa. (2015) "A Portfolio Approach to Managing IT investments at Indus Consumer Products Limited", Simulation, Indian School of Business](https://www.isb.edu/faculty-and-research/research-directory/a-portfolio-approach-to-managing-it-investments-at-indus-consumer-products-limited/)
+*   [Mani, Deepa. (2013) "IT-Led Transformation at Reliance Energy - Teaching notes"](https://www.isb.edu/faculty-and-research/research-directory/it-led-transformation-at-reliance-energy-teaching-notes/)
+*   [Mani, Deepa. (2012) "Sony Music India - Teaching notes", Harvard Business Publishing’s ISB Case Collection](https://www.isb.edu/faculty-and-research/research-directory/sony-music-india-teaching-notes/)
+*   [Mani, Deepa. (2010) "IT-enabled Transformation at Reliance Energy", Reliance Energy](https://www.isb.edu/faculty-and-research/research-directory/it-enabled-transformation-at-reliance-energy/)
+*   [Mani, Deepa. (2010) "Go-to-Market Strategy for Azure, Microsoft, India", Ivey School of Business](https://www.isb.edu/faculty-and-research/research-directory/go-to-market-strategy-for-azure-microsoft-india/)
+*   [Mani, Deepa. (2010) "Wipro’s Flex Delivery Model", Ivey School of Business](https://www.isb.edu/faculty-and-research/research-directory/wipro-s-flex-delivery-model/)
+*   [Mani, Deepa. (2009) "Simulating IT Portfolio Design at Indus Consumer Products Limited"](https://www.isb.edu/faculty-and-research/research-directory/simulating-it-portfolio-design-at-indus-consumer-products-limited/)
+
+## Media and Press
+*   **2021:** Atrium talks with Prof. Deepa Mani, ISB Talks.
+*   **September 18, 2020:** Does work-from-home work for all?, Hindu Business Line.
+*   **May 1, 2020:** “Covid-19 lockdown: It's not the economy vs lives, it's lives vs lives", Fortune India.
+*   **March 30, 2020:** Work from Home in the time of COVID-19, The Hindu.
+*   **March 28, 2020:** WORK FROM HOME AND COVID-19, YOUTUBE.
+*   **February 17, 2020:** Is Uber a solution to traffic congestion or a problem?, Fortune India.
+*   **May 2015:** Multiple features on Smart City models in Siliconindia.com, Sify.com, Business Insider India, Business Standard, Hindustan Times, PTI, ET Realty, Express Computers, DNA, Economic Times, Asian Age, and Deccan Chronicle.
+*   **August 2014:** Extensive coverage on Global In-House Centres (GIC) index development in FirstBiz, India Everyday, CxOtoday, The Hindu, Topnewsindia, Times of AP, Business Standard, The Economic Times, Inooz, Financial Chronicle, Business Line, Indian Express, Zee News, and NDTV.
+*   **July 23, 2014:** MBAs Turn to India for Booming Big Data Jobs, Business Because.
+*   **July 22, 2014:** Indian Companies’ Missing Innovation DNA, Live Mint.
+*   **July 20, 2014:** TCS Set to Cross 100,000 Employees, Live Mint.
+*   **June 30, 2014:** Learning the ABC of Big Data, Business Standard.
+*   **October 28, 2012:** Why Indian B-schools lag in publishing research papers, Business Today.
+*   **May 4, 2012:** Tech majors HP, Google and Microsoft reach out to local start-ups to gain foothold in SME sector, Economic Times.
+*   **September 2011:** Does Better Data Lead to Better Corporate Performance?, Forbes Magazine.
+*   **September 2010:** Study Finds High Economic Gains from RFID Deployments, RFID Journal.
+*   **September 2010:** Data Effectiveness gains reports by Dun & Bradstreet, ZDNet, The Street, ebizQ, and Sybase Press Release.
+*   **May 2005:** Managing Risk to Maximize Value in Business Process Outsourcing: A Process Oriented Approach, CIO Magazine.

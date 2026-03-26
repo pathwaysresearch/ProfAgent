@@ -1,0 +1,118 @@
+# TACIT KNOWLEDGE IN ANDREW W. LO'S SEQUENCING AND SCAFFOLDING
+
+## OPENING MOVES: The Efficiency Trap
+
+Lo's signature opening move is **pedagogical jujitsu**—he begins with the Efficient Market Hypothesis not to teach it, but to systematically dismantle it. This isn't accidental; it's a calculated sequence designed to create productive cognitive dissonance.
+
+**The Pattern Across Formats:**
+- Executive course: "Market Efficiency" → "Adaptive Markets"
+- Book structure: "Ch.01: EMH" → "Ch.02: AMH"
+- Public lectures: Always begins with EMH assumptions before revealing their limitations
+
+**The Tacit Learning Theory:** Lo believes students must first internalize the elegance of EMH to appreciate why it fails. He's not teaching finance history—he's creating a controlled intellectual crisis. Students need to feel the seductive power of efficient market thinking before they can understand why markets actually behave like evolving ecosystems.
+
+This opening sequence reveals his core pedagogical conviction: **transformation requires disorientation**. He deliberately builds up EMH as a beautiful, logical system, then uses real market behavior to show its inadequacy. The cognitive tension between EMH's elegance and its empirical failures creates the mental space for evolutionary thinking.
+
+## SCAFFOLDING LOGIC: From Static to Dynamic Thinking
+
+Lo's scaffolding follows a precise **conceptual evolution** rather than traditional complexity building:
+
+**Stage 1: Static Worldview (EMH)**
+- Markets are efficient
+- Prices reflect all information
+- Arbitrage opportunities disappear instantly
+- Mathematical models can predict behavior
+
+**Stage 2: Dynamic Reality (AMH)**
+- Markets adapt over time
+- Efficiency varies with environmental conditions
+- Arbitrage opportunities evolve
+- Biological models better explain behavior
+
+**The Hidden Prerequisite Structure:**
+Lo's sequencing reveals his belief that students must master **static thinking before dynamic thinking**. This isn't about mathematical complexity—it's about mental model evolution. He can't teach adaptive markets to students who haven't first understood what markets would look like if they were truly efficient.
+
+**Where He Accelerates:** The transition from EMH to AMH happens quickly—often within a single lecture or chapter. The tacit knowledge: once students see the cracks in efficiency theory, they're ready for the evolutionary alternative.
+
+**Where He Slows Down:** He spends extensive time on the implications of adaptive thinking—how it changes risk management, investment strategy, and regulatory approaches. The implicit reasoning: the conceptual shift is quick, but rewiring professional practice takes time.
+
+## CASE PLACEMENT: Crisis as Catalyst
+
+Lo uses a **crisis-first pedagogy** that's remarkably consistent across formats:
+
+**The LTCM → 2008 Crisis Sequence:**
+Both cases appear AFTER he's introduced AMH but BEFORE he fully develops its implications. This placement is surgical—the cases serve as **empirical bridges** between theory and application.
+
+**The Tacit Logic:**
+1. **EMH** (the old way of thinking)
+2. **AMH** (the new framework)
+3. **LTCM/2008** (proof that the new framework explains what the old one couldn't)
+4. **Applications** (how to think differently going forward)
+
+**Why Not Case-First?** Lo could open with dramatic market failures, but he doesn't. The tacit reasoning: students need the conceptual framework to properly interpret the cases. Without AMH, LTCM just looks like bad risk management rather than evolutionary failure.
+
+**Why Not Theory-Last?** He could present cases and let students discover patterns, but he doesn't trust inductive learning for this material. The implicit knowledge: the evolutionary interpretation of market crises is too counterintuitive to emerge naturally from case analysis.
+
+## DIFFICULTY CURVES: The Middle Crisis
+
+Lo's hardest material sits in the **conceptual transition zone**—the shift from efficiency to adaptation thinking. This creates a distinctive difficulty curve:
+
+**Easy:** Understanding EMH (elegant, mathematical, intuitive)
+**Hard:** Letting go of EMH (requires abandoning intellectual comfort)
+**Medium:** Learning AMH concepts (new but logical once you accept the premise)
+**Easy:** Applying AMH (natural once the mental model shifts)
+
+**The Tacit Insight:** Lo recognizes that the hardest part of learning isn't mastering new concepts—it's **unlearning old ones**. His sequencing is designed to make this unlearning as efficient as possible by creating maximum contrast between old and new thinking.
+
+**Productive Struggle Placement:** He front-loads the intellectual crisis rather than distributing difficulty evenly. The implicit theory: get students through their conceptual resistance early, then let them enjoy applying their new mental models.
+
+## SYNTHESIS POINTS: The Ecosystem Metaphor
+
+Lo's signature synthesis move is the **biological analogy cascade**. He doesn't just mention that markets are like ecosystems—he systematically develops this metaphor across multiple dimensions:
+
+**Synthesis Sequence:**
+1. **Species = Market Participants** (different strategies, different niches)
+2. **Environment = Market Conditions** (changing conditions favor different strategies)
+3. **Evolution = Strategy Adaptation** (successful approaches spread, unsuccessful ones disappear)
+4. **Extinction Events = Market Crises** (environmental shocks eliminate poorly adapted strategies)
+
+**The Bridge Logic:** Each biological concept maps to a financial concept, creating a coherent alternative framework. The tacit knowledge: metaphors aren't just explanatory tools—they're **cognitive scaffolding** that helps students think in new ways.
+
+**Where He Pauses:** Lo consistently pauses after introducing each biological parallel to let students work through the implications. The implicit understanding: metaphorical thinking requires processing time.
+
+## AUDIENCE ADAPTATION: Depth vs. Breadth Trade-offs
+
+Lo's sequencing reveals sophisticated **audience calibration**:
+
+**Executive Education (Observed):**
+- Faster EMH → AMH transition
+- More emphasis on practical applications
+- Cases focus on decision-making failures
+- Less mathematical detail, more strategic implications
+
+**Academic/Research Context (Inferred from publication patterns):**
+- Slower conceptual development
+- More rigorous mathematical treatment
+- Cases used for empirical validation
+- Greater emphasis on theoretical foundations
+
+**Public Communication (WSJ articles, lectures):**
+- Immediate relevance hooks (current AI risks)
+- Simplified but not dumbed-down explanations
+- Contemporary examples over historical cases
+- Action-oriented conclusions
+
+**The Tacit Adaptation Logic:** Lo adjusts **processing time, not conceptual sophistication**. Executives get the same intellectual framework as academics, but with faster transitions and more implementation focus. The implicit belief: all audiences can handle complex ideas if the sequencing matches their context and time constraints.
+
+## THE META-SEQUENCE: Evolution as Pedagogy
+
+Lo's deepest sequencing insight is that **learning should mirror the subject matter**. Since he's teaching about market evolution, his pedagogy itself follows evolutionary principles:
+
+**Variation:** Multiple examples and analogies for each concept
+**Selection:** Cases and frameworks that survive empirical testing
+**Adaptation:** Sequencing that adapts to audience needs
+**Inheritance:** Core concepts that persist across all formats
+
+**The Ultimate Tacit Knowledge:** Lo sequences his material to create an **evolutionary learning experience**. Students don't just learn about adaptive markets—they experience adaptive learning. The sequencing itself demonstrates the power of evolutionary thinking by showing how ideas can evolve, adapt, and improve over time.
+
+This explains why his opening move (EMH → AMH) is so consistent across contexts: it's not just efficient pedagogy, it's **evolutionary pedagogy** that mirrors the adaptive process he's teaching students to recognize in markets.

@@ -1,0 +1,121 @@
+{
+  "module_title": "From Market Efficiency to Adaptive Markets: Analyzing Financial Evolution Through Crisis",
+  "professor_id": "andrew-lo-mit",
+  "skill": "Quantitative Finance",
+  "target_bloom_level": "analyze",
+  "learner_role": "Business Analyst",
+  "learner_industry": "Financial Services",
+  "estimated_total_duration_minutes": 195,
+  "designed_at": "2024-12-19T10:30:00Z",
+  "pre_assessment": {
+    "purpose": "Establish baseline before the module",
+    "questions": [
+      {
+        "bloom_level": "remember",
+        "question": "What are the three main assumptions of the Efficient Market Hypothesis, and what does each imply about investor behavior and market pricing?",
+        "rationale": "Must establish EMH baseline before introducing evolutionary alternatives - core principle of always opening with EMH before any alternative framework"
+      },
+      {
+        "bloom_level": "remember",
+        "question": "Define arbitrage and explain why it should theoretically eliminate pricing inefficiencies in financial markets.",
+        "rationale": "Tests understanding of efficiency mechanisms that AMH will later show as incomplete - sets up productive cognitive dissonance"
+      }
+    ]
+  },
+  "primer": {
+    "sections": [
+      {
+        "topic": "Efficient Market Hypothesis Foundation and Limitations",
+        "bloom_level": "understand",
+        "selected_content": [],
+        "content_gaps": [
+          {
+            "gap_description": "EMH foundation content that systematically presents the three forms of market efficiency, then reveals limitations through behavioral anomalies and market bubbles",
+            "suggested_format": "video",
+            "bloom_level": "understand",
+            "needs_sme_review": true
+          }
+        ],
+        "duration_minutes": 30
+      },
+      {
+        "topic": "Adaptive Markets Hypothesis Introduction",
+        "bloom_level": "understand",
+        "selected_content": [
+          {
+            "content_id": "vid_amh_001",
+            "tier": 1,
+            "title": "Adaptive Markets Lecture",
+            "usage_rationale": "Introduces AMH immediately after EMH breakdown per sequencing rule #2 - students are primed for evolutionary framework once they see efficiency theory's inadequacy"
+          }
+        ],
+        "content_gaps": [],
+        "duration_minutes": 45
+      },
+      {
+        "topic": "Biological Analogies and Market Evolution Framework",
+        "bloom_level": "understand",
+        "selected_content": [
+          {
+            "content_id": "paper_amh_001",
+            "tier": 1,
+            "title": "Adaptive Markets Hypothesis Paper",
+            "usage_rationale": "Develops biological analogies systematically across multiple dimensions (species=participants, environment=conditions, evolution=adaptation) rather than casual metaphors - core teaching principle"
+          }
+        ],
+        "content_gaps": [
+          {
+            "gap_description": "Systematic biological analogy development content showing species\u2192environment\u2192evolution\u2192extinction sequence with processing pauses",
+            "suggested_format": "article",
+            "bloom_level": "understand",
+            "needs_sme_review": true
+          }
+        ],
+        "duration_minutes": 60
+      }
+    ]
+  },
+  "immersive_learning": {
+    "format": "crisis_autopsy_frameworks",
+    "scenario_description": "Students conduct a systematic evolutionary autopsy of the LTCM collapse, identifying where adaptation mechanisms broke down and why traditional quantitative models couldn't predict the failure. They map LTCM's environmental assumptions, analyze how the actual environment differed, and determine what this reveals about model limitations in dynamic markets.",
+    "selected_content": [
+      {
+        "content_id": "case_ltc_001",
+        "tier": 1,
+        "title": "LTCM Collapse Case Study",
+        "usage_rationale": "Places crisis case after AMH introduction but before application development per sequencing rule #3 - serves as empirical proof that evolutionary thinking explains what efficiency theory couldn't"
+      }
+    ],
+    "design_rationale": "Creates controlled intellectual crisis through systematic analysis of adaptation failure - students must dissect where evolutionary mechanisms broke down using the AMH framework they just learned, demonstrating superiority of evolutionary over efficiency thinking",
+    "learner_deliverable": "Evolutionary failure analysis report identifying: (1) LTCM's environmental assumptions vs reality, (2) specific adaptation mechanisms that failed, (3) why quantitative models couldn't adapt, (4) implications for current risk management using AMH principles",
+    "content_gaps": [
+      {
+        "gap_description": "Structured framework for conducting evolutionary autopsies of financial crises, with templates for mapping environmental assumptions, adaptation failures, and model limitations",
+        "suggested_format": "exercise",
+        "bloom_level": "analyze",
+        "needs_sme_review": true
+      }
+    ],
+    "duration_minutes": 60
+  },
+  "post_assessment": {
+    "questions": [
+      {
+        "bloom_level": "analyze",
+        "question": "A quantitative hedge fund using high-frequency trading strategies suddenly experiences significant losses during a market stress period. Using the Adaptive Markets Hypothesis framework, analyze: (1) What environmental changes likely occurred, (2) Why the fund's adaptation mechanisms may have failed, (3) How this differs from an EMH explanation of the losses, and (4) What evolutionary strategies the fund should consider going forward.",
+        "rubric_summary": "Mastery requires: systematic application of AMH framework to identify environmental pressures, clear distinction from EMH analysis, recognition of adaptation failure mechanisms, and forward-looking evolutionary strategy recommendations that demonstrate understanding of market ecosystem dynamics"
+      },
+      {
+        "bloom_level": "analyze",
+        "question": "Compare how the Efficient Market Hypothesis and Adaptive Markets Hypothesis would each explain the persistence of the momentum anomaly in equity markets. What does each framework predict about the future of this anomaly, and which explanation better accounts for the empirical evidence?",
+        "rubric_summary": "Mastery requires: accurate representation of both frameworks' explanations, recognition that EMH struggles with persistent anomalies while AMH explains them through evolutionary adaptation cycles, and evidence-based evaluation of which framework better matches market reality"
+      }
+    ]
+  },
+  "sme_review_required": [],
+  "content_gaps_summary": [
+    "EMH foundation content with systematic limitation revelation",
+    "Systematic biological analogy development framework",
+    "Evolutionary crisis autopsy framework and templates"
+  ]
+}
