@@ -16,7 +16,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 load_dotenv()
 
-YOUTUBE_API_KEY = "AIzaSyCB7bw_HBsyF0FXjXYSbLco4yeSU63nZdA"
+YOUTUBE_API_KEY = "[ENCRYPTED KEY]"
 if not YOUTUBE_API_KEY:
     raise RuntimeError(
         "Missing YOUTUBE_API_KEY. Put it in your .env file or export it in your shell."
