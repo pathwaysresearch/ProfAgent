@@ -34,7 +34,7 @@ MAX_PAGES       = 25                              # hard cap on pages opened
 OUTPUT_DIR      = BASE_DIR / "outputs"
 
 
-GEMINI_API_KEY  = "AIzaSyBS9pTkR-bcTTBRgLtOuOou3Q7GWclNtA8"   # ← set your key
+GEMINI_API_KEY  = "[ENCRYPTION_KEY]"   # ← set your key
 GEMINI_MODEL    = "gemini-3-flash-preview"
 
 # Retry back-off delays (seconds) — used for API exhaustion
